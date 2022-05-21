@@ -15,4 +15,4 @@ header_menu: true
 * Ice scraper 
 * Coffee cup
 * Stickers 
-
+* Pins
