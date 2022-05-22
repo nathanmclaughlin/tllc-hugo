@@ -4,7 +4,7 @@ weight: 3
 header_menu: true
 ---
 
-![live show action](images/llc-live.jpg)
+![live show action](images/llc-striped.png)
 
 Next show, etc.
 
