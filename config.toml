@@ -26,7 +26,7 @@ title = "The Lower Leisure Class"
     # services like Twitter or Slack want to generate a preview of a link to your site.
     # See https://gohugo.io/templates/internal#twitter-cards and
     # https://gohugo.io/templates/internal#open-graph.
-    images = ["images/cover-image.jpg"]
+    images = ["images/llc-stories.jpg"]
 
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
@@ -43,3 +43,6 @@ title = "The Lower Leisure Class"
 # trying to get iframe to work
 [markup.goldmark.renderer]
 unsafe = true
+
+# site previews in apps 
+og_image = "images/llc-stories.jpg"
